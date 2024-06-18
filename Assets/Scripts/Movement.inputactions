@@ -1,0 +1,34 @@
+{
+    "name": "Movement",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "0336efa1-948a-4381-b9fd-e4b21ff583d3",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Value",
+                    "id": "51549827-847b-4305-a60c-11a2394a7856",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "fa00382f-b555-401e-b799-28f51d9fa451",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
